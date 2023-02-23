@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development configuration
+/.env
+/.venv
+.env.local
+.venv/
+ENV/
+venv/
+env/
+
+# Distribution / packaging
+/dist/
+/build/
+*.egg-info/
+*.egg
+*.egg-info
+*.tar.gz
+*.whl
+*.zip
+
+# Database
+*.sqlite3
+*.db
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
